@@ -5,8 +5,8 @@ template file:
 
 visionCode file:
 	- 2 output images
-	--> youFace.png : youngerMagic
-	--> aaa.png     : pencilMagic
+	--> youFace.png : youngerMagic (src img: young_test.jpg)
+	--> aaa.png     : pencilMagic  (src img: pencil_test.jpg)
 	- pencilMagic.py: src code for pencil drawing
 	- youngMaggic.py: src code for making people younger
 	- hist_kernel.py: code for histogram matching
